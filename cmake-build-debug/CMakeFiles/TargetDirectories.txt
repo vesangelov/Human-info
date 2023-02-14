@@ -1,0 +1,3 @@
+D:/Zadachi/CLion/Lesson 18/cmake-build-debug/CMakeFiles/Lesson_18.dir
+D:/Zadachi/CLion/Lesson 18/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Zadachi/CLion/Lesson 18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
